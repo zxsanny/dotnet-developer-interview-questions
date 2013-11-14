@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApplication5.Solution
+namespace OOPBasicTasks.Solutions
 {
 	// This file provides solution on your question
 	interface IWalkable
@@ -40,20 +40,5 @@ namespace ConsoleApplication5.Solution
 		{
 			Console.WriteLine("Eagle is flying now");
 		}
-	}
-
-	class Program
-	{
-		//private static void Main(string[] args)
-		//{
-		//    var bat = new Bat();
-		//    var eagle = new Eagle();
-		//    var bear = new Bear();
-		//    bat.Fly();
-		//    eagle.Fly();
-		//    eagle.Walk();
-		//    bear.Walk();
-		//    Console.ReadKey(true);
-		//}
 	}
 }

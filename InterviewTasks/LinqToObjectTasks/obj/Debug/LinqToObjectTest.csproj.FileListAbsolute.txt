@@ -1,0 +1,4 @@
+D:\dev\_zxProjects\dotnet-developer-interview-questions\LinqToObjectTest\bin\Debug\LinqToObjectTest.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\LinqToObjectTest\bin\Debug\LinqToObjectTest.pdb
+D:\dev\_zxProjects\dotnet-developer-interview-questions\LinqToObjectTest\obj\Debug\LinqToObjectTest.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\LinqToObjectTest\obj\Debug\LinqToObjectTest.pdb

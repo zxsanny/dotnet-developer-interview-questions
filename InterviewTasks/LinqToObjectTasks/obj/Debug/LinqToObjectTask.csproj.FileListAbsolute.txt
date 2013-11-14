@@ -1,0 +1,7 @@
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\LinqToObjectTasks\obj\Debug\LinqToObjectTest.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\LinqToObjectTasks\obj\Debug\LinqToObjectTest.pdb
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\LinqToObjectTasks\bin\Debug\LinqToObjectTest.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\LinqToObjectTasks\bin\Debug\LinqToObjectTest.pdb
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\LinqToObjectTasks\bin\Debug\nunit.framework.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\LinqToObjectTasks\bin\Debug\nunit.framework.xml
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\LinqToObjectTasks\obj\Debug\LinqToObjectTask.csprojResolveAssemblyReference.cache

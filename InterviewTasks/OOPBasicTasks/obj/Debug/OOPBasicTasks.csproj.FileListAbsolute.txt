@@ -1,0 +1,6 @@
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\OOPBasicTasks\bin\Debug\OOPBasicTasks.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\OOPBasicTasks\bin\Debug\OOPBasicTasks.pdb
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\OOPBasicTasks\obj\Debug\OOPBasicTasks.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\OOPBasicTasks\obj\Debug\OOPBasicTasks.pdb
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\OOPBasicTasks\bin\Debug\nunit.framework.dll
+D:\dev\_zxProjects\dotnet-developer-interview-questions\InterviewTasks\OOPBasicTasks\bin\Debug\nunit.framework.xml
