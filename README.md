@@ -5,10 +5,20 @@ A list of helpful .net related questions, you can use it to interview potential 
 
 ## Junior dev questions
 
+```
+class Animal
+{
+}
+```
+
+
 1. What is string? struct or class? What is intern pool?
+ (```
+var x = "some";var y = "so" + "me"; //is this different strings or no? 
+```)
+* Differences between String and StringBuilder. When to use what and why?
 * Differences between struct and class, reverences and values types
 * What is static constructor? When it invokes?
-* Differences between String and StringBuilder. When to use what and why?
 * What is boxing?
 * What is interface, differences between interfaces and abstract classes
 * What is virtual methods?, polymorphism?
@@ -17,7 +27,7 @@ A list of helpful .net related questions, you can use it to interview potential 
 * What is GC? What is IDisposable? Is GC call Dispose() when you  
 * Differences between Singleton and Static class. Your attitude to the singletons
 * What is AppDomain?
-* What is Generic classes?
+* What is Generic classes? Constrains in delegates, covariance, contravariance
 * What is delegate, multicast delegate, differences between events and delegates?
 * Linq - task with Users - get users to add, remove, update on LINQ
 
@@ -27,6 +37,5 @@ A list of helpful .net related questions, you can use it to interview potential 
 * What is Dependency Injection, used frameworks (Unity, Autofac)
 * Thread synchronization methods, (lock, ReadWriteLockSlim)
 * TDD concept, Mocking, used frameworks (Nunit, Microsoft Test, Moq, NSubstitute)
-* What is GC? Is GC called Dispose() or no?
 * Does C# classes have destructor?
 * Do you use DDD?
