@@ -7,9 +7,9 @@ A list of helpful .net related questions, you can use it to interview potential 
 
 1. What is string? struct or class? What is intern pool?
 
- (```
+ ```
 var x = "some";var y = "so" + "me"; //is this different strings or no? 
-```)
+```
 
 2. Differences between String and StringBuilder. When to use what and why?
 3. Differences between struct and class, reverences and values types
