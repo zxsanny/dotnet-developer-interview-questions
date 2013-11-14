@@ -5,13 +5,6 @@ A list of helpful .net related questions, you can use it to interview potential 
 
 ## Junior dev questions
 
-```
-class Animal
-{
-}
-```
-
-
 1. What is string? struct or class? What is intern pool?
  (```
 var x = "some";var y = "so" + "me"; //is this different strings or no? 
